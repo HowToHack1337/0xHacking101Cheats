@@ -1,4 +1,7 @@
-# 0xHacking101Cheats
-A HACKING CHEAT SHEET FOR PENTESTERS ....(FOR EDUCATIONAL PURPOSES ONLY):
+# HACKING LINUX COMMANDS LINE اوامر ترمنل لينيكس التي سوف تساعدك في عملية الاختراق(شرح عربي)
 
-**(TERMINAL COMMANDS LINE....ETC)**
+*A HACKING CHEAT SHEET FOR PENTESTERS ....(FOR EDUCATIONAL PURPOSES ONLY)*
+
+**TWITTER:https://twitter.com/HowToHack1337**
+
+
